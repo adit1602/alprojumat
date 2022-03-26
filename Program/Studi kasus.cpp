@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main() {
-  
+
   int bulan1,bulan2,gaji1,gaji2;
   float bonus1, bonus2;
   cout<<endl;
@@ -31,5 +31,5 @@ int main() {
   }else if(bulan2>=5){
     cout<<"Mengerjakan lebih dari 5 bulan maka gaji tim 2 adalah 28000000"<<endl;
   }
-  
-} 
+
+}
